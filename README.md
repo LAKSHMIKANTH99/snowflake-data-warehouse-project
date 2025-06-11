@@ -2,7 +2,7 @@
 
 # ❄️ Snowflake Lab Projects
 
-# Snowflake Data Warehouse Project 🚀
+# Snowflake Data Warehouse Project 
 
 This repository showcases my hands-on experience with Snowflake while preparing for the **SnowPro Core Certification**.
 
