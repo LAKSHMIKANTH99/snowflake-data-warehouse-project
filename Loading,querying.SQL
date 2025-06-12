@@ -1,4 +1,8 @@
 Loading Csv file  from external cloud .Here  we did from Amazzon S3.
+Loaded loan payment data from Amazon S3 into Snowflake using COPY INTO.
+Defined the table manually and validated the load using SELECT *.
+This simulates a production data load scenario into Snowflake’s OLAP-optimized architecture.
+
 
 // Create database
 CREATE DATABASE FIRST_DB;
