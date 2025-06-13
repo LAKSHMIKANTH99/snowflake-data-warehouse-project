@@ -12,6 +12,7 @@ It demonstrates how to:
 - Implement role-based access control (RBAC)
 - Query metadata, optimize queries, and manage warehouses
 - Apply best practices from Snowflake's architecture
+- https://github.com/LAKSHMIKANTH99/snowflake-data-warehouse-project/issues/1#issuecomment-2968724527 --Visualisation Link
 
 ## 🧠 Skills Practiced
 - Snowflake SQL & Cloud Services Layer
