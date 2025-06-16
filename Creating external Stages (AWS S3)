@@ -2,7 +2,6 @@
 // Database to manage stage objects, fileformats etc.
 
 CREATE OR REPLACE DATABASE manage_db;
-
 CREATE OR REPLACE SCHEMA external_stages;
 
 
